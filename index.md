@@ -5,7 +5,7 @@
       <h1>蓝锡林</h1>
       <p><b>硕士研究生</b></p>
       <p><b>中南大学计算机学院</b></p>
-      <p><b>邮箱：xilinlan@csu.edu.com</b></p>
+      <p><b>邮箱：xilinlan@csu.edu.con</b></p>
       <p><b>地址：湖南省长沙市麓山南路932号中南大学，邮编410083</b></p>
       <p><a href="/index-en.html">English Version</a></p>
     </td>
