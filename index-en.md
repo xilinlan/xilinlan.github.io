@@ -5,7 +5,7 @@
       <h1>Xilin Lan</h1>
       <p><b>Master</b></p>
       <p><b>School of Computer Science, Central South University</b></p>
-      <p><b>E-mail：xilinlan@csu.edu.com</b></p>
+      <p><b>E-mail：xilinlan@csu.edu.con</b></p>
       <p><b>Address：932 Lushan South Road, Changsha, Hunan, P.R. China</b></p>
       <a href="/index.html">中文版</a>
     </td>
