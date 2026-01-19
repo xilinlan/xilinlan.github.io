@@ -25,5 +25,7 @@ School of Computer Science, China University of Geosciences (Wuhan)-Software Eng
 ### Research Interests
 
 - Intelligent Software Engineering
+- Automatic Program Repair
 - Code Search
 - Software Maintenance
+
